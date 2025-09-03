@@ -13,7 +13,9 @@
 -Helps analyse customer satisfaction
 
 **Data Science Book** [Introduction to Metadata](https://www.getty.edu/publications/intrometadata/)
+
 **Author** Murtha Baca
+
 **Why I'm Interested**
 
 -It explains what metadata is and why it is important.It also explains several misconceptions of metadata. This book explains how web search engines work and how they use metadata.
