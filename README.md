@@ -18,4 +18,6 @@
 
 **Why I'm Interested**
 
--It explains what metadata is and why it is important.It also explains several misconceptions of metadata. This book explains how web search engines work and how they use metadata.
+-It explains what metadata is and why it is important.
+-It also explains several misconceptions of metadata. 
+-This book explains how web search engines work and how they use metadata.
