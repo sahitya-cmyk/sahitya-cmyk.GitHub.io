@@ -10,6 +10,7 @@
 **Applicaions and Values**
 
 -Helps analyse cancellation details
+
 -Helps analyse customer satisfaction
 
 **Data Science Book** [Introduction to Metadata](https://www.getty.edu/publications/intrometadata/)
